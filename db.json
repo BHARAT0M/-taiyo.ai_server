@@ -1,6 +1,3 @@
 {
-    "contacts":[
-        {  "0": {}, "id": "5df1ef5c-60a2-4da5-8d02-3fdd8e703250", "name": "bharat", "lastName": "Patidar", "status": "active" },
-        {  "id": "c6141707-dd9c-472c-97d5-5b351fc505b7", "name": "Aman", "lastName": "Patidar", "status": "inactive" }
-    ]
+    "contacts":[]
 }
