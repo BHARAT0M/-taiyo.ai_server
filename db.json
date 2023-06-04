@@ -1,3 +1,6 @@
 {
-    "contacts":[]
+    "contacts":[
+        { "name": "bharat", "lastName": "Patidar", "status": "active" },
+        { "name": "Aman", "lastName": "Patidar", "status": "inactive" }
+    ]
 }
