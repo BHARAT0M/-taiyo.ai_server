@@ -1,2 +1,2 @@
-# -taiyo.ai_server
+# taiyo.ai_server
 server
